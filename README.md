@@ -14,7 +14,7 @@ A minimal, ultra-optimized Paper plugin designed to fix a specific behavior intr
 ## 🛠️ Requirements
 
 - **Server**: Paper, Purpur, or any high-performance fork of Spigot.
-- **Version**: Minecraft 1.21.1 or newer.
+- **Version**: Minecraft 1.21.11 or newer.
 - **Java**: Version 21.
 
 ## 📦 Installation
