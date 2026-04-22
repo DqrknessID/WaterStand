@@ -1,6 +1,8 @@
 # WaterStand
 
-A minimal, ultra-optimized Paper plugin designed to fix a specific behavior introduced in recent Minecraft versions (1.21.1+) where Armor Stands take `FIRE_TICK` damage even when submerged in water, which often breaks existing water-based traps or decorative setups.
+A minimal, ultra-optimized Paper plugin designed to fix a specific behavior introduced in recent Minecraft versions (1.21.11+) where Armor Stands take `FIRE_TICK` damage even when submerged in water, which often breaks existing water-based traps or decorative setups.
+
+Useful for trappers who is used to the armorstand critouts by Shadow
 
 ## 🚀 Features
 
