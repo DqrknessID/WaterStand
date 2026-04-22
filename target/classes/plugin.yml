@@ -1,0 +1,7 @@
+name: WaterStand
+version: '1.0-SNAPSHOT'
+main: org.dqrknessid.waterstand.WaterStand
+api-version: '1.21'
+description: Cancels FIRE_TICK damage to ArmorStands when they are in water.
+authors: [ dqrknessid ]
+load: POSTWORLD
